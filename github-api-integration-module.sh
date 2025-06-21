@@ -5,11 +5,12 @@
 #
 #
 #
+#Fork_Pull_Request_Demo
 # This script will help users to communicate and retrieve information from GitHub
 # Usage:
 #   Please provide your github token and rest api to the script as input
 #
-#Fork-Demo
+#
 ################################
 
 if [ ${#@} -lt 2 ]; then
